@@ -1,0 +1,9 @@
+[package]
+name = "bevy-vfx-bag-integration"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.10.0"
+# bevy-vfx-bag = { git = "https://github.com/torsteingrindvik/bevy-vfx-bag", rev = "c19785e235acc60a080df0d41b787d3ed1d5de76" }
+bevy-vfx-bag = "0.2.0"
